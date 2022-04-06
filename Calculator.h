@@ -4,6 +4,8 @@
 class Calculator {
 public:
 
+	double add(double, double);
+
 };
 
 #endif CALCULATOR_H
